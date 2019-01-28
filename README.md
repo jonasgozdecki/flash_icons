@@ -24,8 +24,6 @@ Vetorized icons done on free time.
 
 ### PlayIcon
 
-[![Sample](https://github.com/jonasgozdecki/flash_icons/blob/master/playIcon.png)]()
-
 - It's formed by gathering objects to form light and shade effects, distributing then into layers makes easier for maintenance.
 Changing hue and saturation can produce some mouseOver effect, but it's no suitable for high precision requirements. 
 Filter effects causes some blur suitable for merging animations into pictures.
@@ -58,10 +56,10 @@ The .exe file is secure and shows a very simple effect on startup that could be 
 
 - The card Icon is a bit complex, and must be changed (less details) if gets much smaller. The Star Icon uses objects to create light rays and is created in just one layer thus, getting harder to someone change it without automatically destroying it.
 
-[![Icons BC](https://github.com/jonasgozdecki/flash_icons/blob/master/icons_bc.png)]()
+[![Icons BC](https://github.com/jonasgozdecki/flash_icons/blob/master/icons2.png)]()
 
-> icons_bc.fla
-`https://github.com/jonasgozdecki/flash_icons/blob/master/icons_bc.fla`
+> icons2.fla
+`https://github.com/jonasgozdecki/flash_icons/blob/master/icons2.fla`
 
 
 > This USA icon uses a very flexible light effect noticeable in some Forms captions.
