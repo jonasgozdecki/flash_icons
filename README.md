@@ -1,5 +1,5 @@
-# Flash Vetor Icons
-Vetorized icons done on free time.
+# Flash Vector Icons
+Vectorized icons done on free time.
 
 - Adobe Flash
 - Vector
