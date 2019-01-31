@@ -63,6 +63,11 @@ The .exe file is secure and shows a very simple effect on startup that could be 
 [![Bolt](https://github.com/jonasgozdecki/flash_icons/blob/master/bolt.png)]()
 
 
+- Shopping cart icon
+
+[![Cart](https://github.com/jonasgozdecki/flash_icons/blob/master/icon_cart.png)]()
+
+
 
 ---
 
