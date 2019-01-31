@@ -50,6 +50,20 @@ The .exe file is secure and shows a very simple effect on startup that could be 
 > icons_bc.fla
 `https://github.com/jonasgozdecki/flash_icons/blob/master/icons_bc.fla`
 
+- Texturized wallet icon for Mobile
+
+[![Wallet](https://github.com/jonasgozdecki/flash_icons/blob/master/icon_wallet.png)]()
+
+- Chip icon for fintech app
+
+[![Chip](https://github.com/jonasgozdecki/flash_icons/blob/master/chip.png)]()
+
+- Bolt icon, just usefull.
+
+[![Bolt](https://github.com/jonasgozdecki/flash_icons/blob/master/bolt.png)]()
+
+
+
 ---
 
 ### Icons2
